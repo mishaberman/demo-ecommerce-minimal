@@ -1,0 +1,26 @@
+{
+  "name": "repo_to_audit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mishaberman/demo-ecommerce-minimal.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mishaberman/demo-ecommerce-minimal/issues"
+  },
+  "homepage": "https://github.com/mishaberman/demo-ecommerce-minimal#readme",
+  "description": "",
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "express": "^5.2.1",
+    "facebook-nodejs-business-sdk": "^24.0.1",
+    "uuid": "^13.0.0"
+  }
+}
